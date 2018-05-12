@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2367'
     url: http://www.gutenberg.org/2009/agents/2367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35927#A-Romance-of-TorontoA-Novel
 gutenberg_issued: '2011-04-21'
 gutenberg_type: Text
 identifiers:
